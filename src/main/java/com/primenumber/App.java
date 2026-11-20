@@ -1,7 +1,7 @@
 package com.primenumber;
 
 import java.util.Scanner;
-// comment added by sonu - enabled pr comment
+// comment added by sonu - enabled pr comment- again pr comment option disabled now
 
 public class App {
     public static void main(String[] args) {
