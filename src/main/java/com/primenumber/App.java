@@ -1,7 +1,7 @@
 package com.primenumber;
 
 import java.util.Scanner;
-// comment added 
+// comment added by sonu
 
 public class App {
     public static void main(String[] args) {
