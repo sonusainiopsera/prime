@@ -1,6 +1,7 @@
 package com.primenumber;
 
 import java.util.Scanner;
+// comment added 
 
 public class App {
     public static void main(String[] args) {
